@@ -17,14 +17,14 @@ The offices of [clypd.com](http://clypd.com/).  They are located at:
 
 After lunch and the livestream, we have the following confirmed lightning talks (between 5-15 minutes):
 
-* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul will present a short talk on Fig, which is a big part of the new Docker release.
-* [Tom O'Hare](https://www.linkedin.com/pub/tom-o-hare) from [Akamai](http://www.akamai.com/).  How Akamai is using Docker to rethink its infrastructure.
+* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul will present a short talk on Fig, which is a big part of the new Docker release. *~15 minutes*
+* [Tom O'Hare](https://www.linkedin.com/pub/tom-o-hare) from [Akamai](http://www.akamai.com/).  How Akamai is using Docker to rethink its infrastructure. *~5-10 minutes*
 
 ## Potential Lightning Talks
 
 Unconfirmed lightning talks:
 
-* [Tom Petr](https://twitter.com/tpetr) and [Elias Torres](http://www.eliastorres.com/) from [Hubspot](http://www.hubspot.com/).  A short talk and demo about [Singularity](https://github.com/HubSpot/Singularity), a Mesos scheduler (HTTP API and webapp) for running mesos tasks—long running processes, one-off tasks, and scheduled jobs. 
+* [Tom Petr](https://twitter.com/tpetr) and [Elias Torres](http://www.eliastorres.com/) from [Hubspot](http://www.hubspot.com/).  A short talk and demo about [Singularity](https://github.com/HubSpot/Singularity), a Mesos scheduler (HTTP API and webapp) for running mesos tasks—long running processes, one-off tasks, and scheduled jobs. *~5-10 minutes*
 
 
 ## Pitch your project
