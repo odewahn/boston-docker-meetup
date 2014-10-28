@@ -17,7 +17,7 @@ The beautiful offices of [clypd.com](http://clypd.com/), at [212 Elm Street, Som
 
 After lunch and the livestream, we have the following confirmed lightning talks (between 5-15 minutes):
 
-* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul will present a short talk on Fig, which is a big part of the new Docker release. *~15 minutes*
+* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul will present a short talk on using Fig for Developing Microservices. Fig is a big part of the new Docker release. *~10 minutes*
 * [Tom O'Hare](https://www.linkedin.com/pub/tom-o-hare) from [Akamai](http://www.akamai.com/).  How Akamai is using Docker to rethink its infrastructure. *~5-10 minutes*
 
 ## Potential Lightning Talks
