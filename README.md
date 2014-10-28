@@ -8,9 +8,9 @@ Thursday, October 30th.  Registration starts at 11:30.  Lunch will start at 12:0
 
 ## Where
 
-The offices of [clypd.com](http://clypd.com/).  They are located at:
+The beautiful offices of [clypd.com](http://clypd.com/), at [212 Elm Street, Somerville, MA](https://goo.gl/maps/7xuMS):
 
-[212 Elm Street, Somerville, MA](https://goo.gl/maps/7xuMS)
+<img src="images/clypd-offices.jpg"/>
 
 
 ## Confirmed Lightning Talks
