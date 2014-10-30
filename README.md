@@ -17,14 +17,38 @@ The beautiful offices of [clypd.com](http://clypd.com/), at [212 Elm Street, Som
 
 After lunch and the livestream, we have the following confirmed lightning talks (between 5-15 minutes):
 
-* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul will present a short talk on using Fig for Developing Microservices. Fig is a big part of the new Docker release. *~10 minutes*
-* [Tom O'Hare](https://www.linkedin.com/pub/tom-o-hare) from [Akamai](http://www.akamai.com/).  How Akamai is using Docker to rethink its infrastructure. *~5-10 minutes*
-* [Tom Petr](https://twitter.com/tpetr) and [Elias Torres](http://www.eliastorres.com/) from [Hubspot](http://www.hubspot.com/).  A short talk and demo about [Singularity](https://github.com/HubSpot/Singularity), a Mesos scheduler (HTTP API and webapp) for running mesos tasks—long running processes, one-off tasks, and scheduled jobs. *~5-10 minutes*
 * [Brian Fallik](https://www.linkedin.com/pub/brian-fallik/0/303/767) from clypd(http://clypd.com/) on how clypd uses Docker to streamline their testing process. *~5-10 minutes*
+* [Elias Torres](http://www.eliastorres.com/) from [Hubspot](http://www.hubspot.com/).  A short talk and demo about [Singularity](https://github.com/HubSpot/Singularity), a Mesos scheduler (HTTP API and webapp) for running mesos tasks—long running processes, one-off tasks, and scheduled jobs. *~5-10 minutes*
+* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul will present a short talk on using Fig for Developing Microservices. Fig is a big part of the new Docker release. *~10 minutes*
 
 
-## Pitch your project
+
+### Unconfirmed
+
+* [Tom O'Hare](https://www.linkedin.com/pub/tom-o-hare) from [Akamai](http://www.akamai.com/).  How Akamai is using Docker to rethink its infrastructure. *~5-10 minutes*
+
+
+
+## Contest/Hackathon detail
+
+*Switch to other room at 2:30*
+
+Theme is distributed computing -- Fig and new Hosts (Host functions are in "hosts-management" branch, so we'd need to build a binary for it)
+
+* [Link to submission form](https://docs.google.com/a/oreilly.com/forms/d/1eT76LrZYpo8SCNP4hFyZcSJ-kd7_NSSbTYyrSMpLwIA/viewform)
+* [Rackspace Server](http://iwantaserver.io/).  Use event code dockerGHD2
+* DigitalOcean -- see me for login credentials
+
+
+* Move to the other area for the hackathon -- clear out at 2:30
+* Work on the hack
+* Present hack in 3 minutes
+
+### Pitch your project
 
 The bulk of the day will be devoted to hacking on projects using the features of the new Docker release.  If you're thinking about a topic you're interested in working on or forming a team around, you'll have a chance to pitch it during the event.  If you already have an idea about what you might be interested in, send a pull request and we'll add it here:
 
 * [Andrew Odewahn](https://github.com/odewahn).  Docker for IPython Notebooks and other rich learning environments.
+
+
+
