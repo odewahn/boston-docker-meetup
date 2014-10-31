@@ -51,7 +51,7 @@ The bulk of the day will be devoted to hacking on projects using the features of
 
 Here are a few pictures from the event.  Send me a PR and I'll add more.
 
-![Paul Lam](src="/images/paul-lam.png")
+<img width="400" src="/images/paul-lam.png"/>
 
 <img width="400" src="/images/elias-torres.png"/>
 
