@@ -8,9 +8,7 @@ Thursday, October 30th.  Registration starts at 11:30.  Lunch will start at 12:0
 
 ## Where
 
-The beautiful offices of [clypd.com](http://clypd.com/), at [212 Elm Street, Somerville, MA](https://goo.gl/maps/7xuMS):
-
-<img width="400" src="/images/clypd.jpg"/>
+The beautiful offices of [clypd.com](http://clypd.com/), at [212 Elm Street, Somerville, MA](https://goo.gl/maps/7xuMS).
 
 ## Twitter
 
@@ -47,16 +45,6 @@ The bulk of the day will be devoted to hacking on projects using the features of
 
 * [Andrew Odewahn](https://github.com/odewahn).  Docker for IPython Notebooks and other rich learning environments.
 
-## A few more pics
 
-Here are a few pictures from the event.  Send me a PR and I'll add more.
-
-<img width="400" src="pics/paul-lam.png"/>
-
-<img width="400" src="/images/elias-torres.png"/>
-
-<img width="400" src="/images/swag.png"/>
-
-<img width="400" src="/images/meeting.png"/>
 
 
