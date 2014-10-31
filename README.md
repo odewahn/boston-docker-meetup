@@ -10,7 +10,7 @@ Thursday, October 30th.  Registration starts at 11:30.  Lunch will start at 12:0
 
 The beautiful offices of [clypd.com](http://clypd.com/), at [212 Elm Street, Somerville, MA](https://goo.gl/maps/7xuMS):
 
-<img width="400" src="images/hackday/clypd.jpg"/>
+<img width="400" src="./images/hackday/clypd.jpg"/>
 
 ## Twitter
 
@@ -51,12 +51,12 @@ The bulk of the day will be devoted to hacking on projects using the features of
 
 Here are a few pictures from the event.  Send me a PR and I'll add more.
 
-<img src="images/hackday/paul-lam.png"/>
+<img src="./images/hackday/paul-lam.png"/>
 
-<img src="images/hackday/elias-torres.png"/>
+<img src="./images/hackday/elias-torres.png"/>
 
-<img src="images/hackday/swag.png"/>
+<img src="./images/hackday/swag.png"/>
 
-<img src="images/hackday/meeting.png"/>
+<img src="./images/hackday/meeting.png"/>
 
 
