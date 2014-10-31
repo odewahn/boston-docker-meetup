@@ -12,14 +12,18 @@ The beautiful offices of [clypd.com](http://clypd.com/), at [212 Elm Street, Som
 
 <img width="400" src="images/clypd-offices.jpg"/>
 
+## Twitter
+
+Use `#dockerhackday` as the tag.
+
 
 ## Confirmed Lightning Talks
 
 After lunch and the livestream, we have the following confirmed lightning talks (between 5-15 minutes):
 
-* [Brian Fallik](https://www.linkedin.com/pub/brian-fallik/0/303/767) from clypd(http://clypd.com/) on how clypd uses Docker to streamline their testing process. *~5-10 minutes*
-* [Elias Torres](http://www.eliastorres.com/) from [Hubspot](http://www.hubspot.com/).  A short talk and demo about [Singularity](https://github.com/HubSpot/Singularity), a Mesos scheduler (HTTP API and webapp) for running mesos tasks—long running processes, one-off tasks, and scheduled jobs. *~5-10 minutes*
-* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul will present a short talk on using Fig for Developing Microservices. Fig is a big part of the new Docker release. *~10 minutes*
+* [](https://www.linkedin.com/in/andreimackenzie) from clypd(http://clypd.com/) on how clypd uses Docker to streamline their testing process.
+* [Elias Torres](http://www.eliastorres.com/) from [Hubspot](http://www.hubspot.com/).  A short talk and demo about [Singularity](https://github.com/HubSpot/Singularity), a Mesos scheduler (HTTP API and webapp) for running mesos tasks—long running processes, one-off tasks, and scheduled jobs.  This was a dry-run for his presentation next week at AWS re:Invent.
+* [Paul Lam](https://twitter.com/quantisan) from [Spokepoint](http://www.spokepoint.com/).  Paul presented on [Fig for Developing Microservices](http://www.slideshare.net/quantisan/2014-docker-boston-fig-for-developing-microservices). Fig is a big part of the new Docker release, and Paul's presentation makes a compelling case about how to streamline your architecture and workflows.
 
 
 
@@ -31,7 +35,7 @@ After lunch and the livestream, we have the following confirmed lightning talks 
 
 ## Contest/Hackathon detail
 
-*Switch to other room at 2:30*
+*Switch to other room at 2:30 (ish)*
 
 Theme is distributed computing -- Fig and new Hosts (Host functions are in "hosts-management" branch, so we'd need to build a binary for it)
 
